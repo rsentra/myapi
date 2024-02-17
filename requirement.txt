@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+passlib[bcrypt]
+pydantic[email]
+python-multipart
+"python-jose[cryptography]"
+
+frontend % npm install qs

@@ -1,0 +1,1 @@
+d:\venvs\myapi\Scripts\activate.bat
